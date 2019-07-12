@@ -1,0 +1,15 @@
+.navbar {
+  background: #F6FC5C;
+}
+.navbar .navbar-nav a {
+  margin: 0 15px;
+  color: #000;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.navbar .navbar-nav a:hover {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=all.css.map */
