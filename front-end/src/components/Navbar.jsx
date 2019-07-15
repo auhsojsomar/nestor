@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 export class Navigation extends Component {
 	render() {
 		return (
-			<Navbar expand="sm">
+			<Navbar expand="sm" sticky="top">
 				<Navbar.Toggle aria-controls="nav" className="ml-auto" />
 				<Navbar.Collapse id="nav" className="justify-content-center">
 					<Nav className="justify-content-center">

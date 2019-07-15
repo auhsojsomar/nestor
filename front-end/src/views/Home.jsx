@@ -5,7 +5,12 @@ export class Home extends Component {
 		document.title = "Star-Wye";
 	}
 	render() {
-		return <div>Home</div>;
+		return (
+			<div>
+				<i class="fas fa-alarm-clock"></i>
+				Home
+			</div>
+		);
 	}
 }
 
