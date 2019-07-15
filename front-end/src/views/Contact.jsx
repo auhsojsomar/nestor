@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 export class Contact extends Component {
-	componentDidMount() {
+	componentWillMount() {
 		document.title = "Star-Wye | Contact";
 	}
 	render() {

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 export class NotFound extends Component {
-	componentDidMount() {
+	componentWillMount() {
 		document.title = "Star-Wye | 404 Not Found";
 	}
 	render() {

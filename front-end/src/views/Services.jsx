@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 export class Services extends Component {
-	componentDidMount() {
+	componentWillMount() {
 		document.title = "Star-Wye | Services";
 	}
 	render() {
