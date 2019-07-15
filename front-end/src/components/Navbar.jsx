@@ -10,7 +10,7 @@ export class Navigation extends Component {
 					<h1>Logo</h1>
 					<ul className="list-unstyled my-3">
 						<li>
-							<i class="fas fa-map-marker-alt" />
+							<i className="fas fa-map-marker-alt" />
 							Office / Shop Mercury St. Estrella Subd. <br />
 							Deparo Caloocan City
 						</li>
