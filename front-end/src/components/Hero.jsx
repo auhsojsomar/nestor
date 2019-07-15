@@ -6,7 +6,7 @@ const Hero = () => {
 	return (
 		<Carousel>
 			<Carousel.Item>
-				<img src={about} alt="about" className="d-block w-100" />
+				<img src={about} alt="abouts" className="d-block w-100" />
 			</Carousel.Item>
 		</Carousel>
 	);
